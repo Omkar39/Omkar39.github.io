@@ -1,0 +1,39 @@
+<!doctype html>
+<html>
+<head> 
+   <meta charset = 'utf-8'>
+   <meta name="viewport" content="width=device-width, initial-scale=1.0">
+   <link rel="stylesheet" href="style1.css">
+   <title> Assignent 2 </title>
+   
+
+</head>
+<body>
+	<div class="row">
+	<h1> Our menu </h1>
+	<div class="col-lg-4 col-md-6 col-sm-12" id="container">
+   
+   <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+    tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
+    quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
+    consequat. </p> 
+    <p id="p1"> chicken </p> </div>
+    
+    <div class="col-lg-4 col-md-6 col-sm-12" id="container">
+   
+   <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+    tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
+    quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
+    consequat. </p> 
+    <p id="p2"> Beef  </p></div>
+    
+    <div class="col-lg-4 col-md-6 col-sm-12" id="container">
+   
+   <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+    tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
+    quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
+    consequat. </p> 
+    <p id="p3"> sushi </p> </div>
+</div>
+</body>
+</html>
