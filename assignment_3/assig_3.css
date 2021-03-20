@@ -1,0 +1,46 @@
+*{
+	margin: 0;
+	padding: 0;
+	
+}
+.navbar{
+
+    border: none;
+    background-color: darkkhaki;
+    color: red
+}
+body{
+	background-color: darksalmon;
+	color: white;
+}
+.glyphicon{
+	font-size: 30px;
+	color:grey; 
+}
+
+
+.container
+{
+	background-color: black;
+}
+.text-center{
+	font-size: 30px;
+}
+
+h2{
+	text-align: center;
+}
+#myNavbar ul li a {
+	color: white;
+}
+.navbar-brand{
+font-size: 30px;	
+}
+
+.navbar-inverse .navbar-brand {
+    color: cornflowerblue;
+}
+#myNavbar ul li a :hover{
+	font-size: 30px;
+	color:white;
+}
